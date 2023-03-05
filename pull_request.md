@@ -1,4 +1,3 @@
-### Σχετικό Issue
 closes #[414](https://github.com/ioniodi/sitegr/issues/414)
 
 ### Σχετικό Pull Request
@@ -14,8 +13,7 @@ closes #[414](https://github.com/ioniodi/sitegr/issues/414)
 ..
 
 ### Demo links (Netlify):
-- [people/](https://nkanagno-sitegr.netlify.app/people/)
-- [people/dmouratidi/](https://nkanagno-sitegr.netlify.app/people/dmouratidi/)
+[Demo link](https://nkanagno-sitegr.netlify.app/)
 
 ### Υπενθυμίσεις
 - [x] Έχω ανοίξει από πριν issue για τον καλό συντονισμό του project, το οποίο έχει πάρει το πράσινο φως με την αντίστοιχη ετικέτα

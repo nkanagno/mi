@@ -1,21 +1,18 @@
 ---
 author: nkanagno
 title: Blender mixer multiuser addon
-year: 1998
+year: 2022
 image_url: /images/blender-multiuser-addon.jpg
-caption: 'To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal το 1998, είναι ενα πρόγραμμα ανάπτυξης και κατασκεύης 3D γραφικώ
-ν όπου χρησιμοποιείτε κυριώς για σχεδίαση γραφικών, τρισδιάστατο και δισδιάστατο animation καθώς και video editing. Το Rapid PBR Material Creator του blender είναι ένα εργαλείο που δημιουργήθηκέ στην εκδοχή 2.8 και είναι χρήσιμο διότι επιτρέπει στον κάθε χρήστη να δημιουργήσει πιο εύκολα και λιγότερο χρονοβόρα τα γραφικά του. Ουσιαστίκα, ο χρήστης χειρίζεται το εργαλείο αυτό συνδέοντας έτοιμα μοτίβα μεταξύ εικόνων, χρωμάτων, ήχων και άλλα, που μπορεί να παραμετροποιήσει και να τα διασυνδέσει σε διαγράμματα ροής, έτσι ώστε να δημιουργήσει τα γραφικά του.'
-license_url: 'https://www.blender.org/'
+caption: ''
+license_url: 'https://ubisoft-mixer.readthedocs.io/en/latest/getting-started/features.html#features'
 license_text: blender
 categories:
  - Εργαλεία
- - Οπτικός Προγραμματισμός
  - Πολυμέσα
+ - Συνεργατικά συστήματα
 tags:
  - Βιντεοπαιχνίδια
  - graphics
  - 3d
- - MAX-MSP
- - GRAIL
  - Blender foundation
 ---
